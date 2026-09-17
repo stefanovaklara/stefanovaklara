@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Klara 👋
 
-<!--
-**stefanovaklara/stefanovaklara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+💻 Interested in Software Development & Web Development
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student building my skills through university projects and personal practice projects.
+
+I'm currently learning and working with:
+* C++
+* JavaScript
+* React
+* HTML & CSS
+* Git & GitHub
+
+### Projects
+
+🍽️ **Salvatore — Restaurant Website**
+A React-based frontend practice project focused on responsive design, multilingual support, and theme switching.
+
+📚 **Personal Book Website**
+A simple web development practice project built with HTML and CSS.
+
+### Currently
+
+🌱 Improving my frontend and software development skills
+🛠️ Building projects and learning through practice
