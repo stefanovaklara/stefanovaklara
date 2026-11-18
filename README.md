@@ -9,6 +9,7 @@ I'm a Computer Science student building my skills through university projects an
 
 I'm currently learning and working with:
 * C++
+* Java
 * JavaScript
 * React
 * HTML & CSS
