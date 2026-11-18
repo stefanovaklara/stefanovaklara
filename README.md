@@ -22,6 +22,7 @@ A React-based frontend practice project focused on responsive design, multilingu
 
 📚 **Personal Book Website**
 A simple web development practice project built with HTML and CSS.
+🏙️ **CityEye — Civic Reporting Platform** A full-stack Next.js and Supabase web app where citizens report local problems like potholes and broken streetlights, follow their progress, and discuss issues with neighbors. Includes a live map, user accounts, admin moderation, bilingual support (MK/EN), and an installable mobile app (PWA).
 
 ### Currently
 
